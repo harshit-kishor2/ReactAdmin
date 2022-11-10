@@ -2,7 +2,7 @@
   "name": "test_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://harshit-kishor2.github.io/adminPanel",
+  "homepage": "http://harshit-kishor2.github.io/ReactAdmin",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
